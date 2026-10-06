@@ -1,0 +1,16 @@
+shipment_id,order_id,status,organization_id,processing_date
+1,1,Delivered,ORG001,2026-09-28
+2,2,Delivered,ORG001,2026-09-28
+3,3,Delivered,ORG001,2026-09-28
+4,4,Delivered,ORG001,2026-09-28
+5,5,Delivered,ORG001,2026-09-28
+1,1,Delivered,ORG002,2026-09-28
+2,2,Delivered,ORG002,2026-09-28
+3,3,Delivered,ORG002,2026-09-28
+4,4,Delivered,ORG002,2026-09-28
+5,5,Delivered,ORG002,2026-09-28
+1,1,Delivered,ORG003,2026-09-28
+2,2,Delivered,ORG003,2026-09-28
+3,3,Delivered,ORG003,2026-09-28
+4,4,Delivered,ORG003,2026-09-28
+5,5,Delivered,ORG003,2026-09-28

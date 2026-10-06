@@ -1,0 +1,16 @@
+product_id,product_name,category,organization_id,processing_date
+1,Product_1,Electronics,ORG001,2026-09-28
+2,Product_2,Electronics,ORG001,2026-09-28
+3,Product_3,Electronics,ORG001,2026-09-28
+4,Product_4,Electronics,ORG001,2026-09-28
+5,Product_5,Electronics,ORG001,2026-09-28
+1,Product_1,Electronics,ORG002,2026-09-28
+2,Product_2,Electronics,ORG002,2026-09-28
+3,Product_3,Electronics,ORG002,2026-09-28
+4,Product_4,Electronics,ORG002,2026-09-28
+5,Product_5,Electronics,ORG002,2026-09-28
+1,Product_1,Electronics,ORG003,2026-09-28
+2,Product_2,Electronics,ORG003,2026-09-28
+3,Product_3,Electronics,ORG003,2026-09-28
+4,Product_4,Electronics,ORG003,2026-09-28
+5,Product_5,Electronics,ORG003,2026-09-28

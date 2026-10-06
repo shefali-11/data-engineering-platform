@@ -1,0 +1,16 @@
+supplier_id,supplier_name,city,organization_id,processing_date
+1,Supplier_1,Pune,ORG001,2026-09-28
+2,Supplier_2,Pune,ORG001,2026-09-28
+3,Supplier_3,Pune,ORG001,2026-09-28
+4,Supplier_4,Pune,ORG001,2026-09-28
+5,Supplier_5,Pune,ORG001,2026-09-28
+1,Supplier_1,Pune,ORG002,2026-09-28
+2,Supplier_2,Pune,ORG002,2026-09-28
+3,Supplier_3,Pune,ORG002,2026-09-28
+4,Supplier_4,Pune,ORG002,2026-09-28
+5,Supplier_5,Pune,ORG002,2026-09-28
+1,Supplier_1,Pune,ORG003,2026-09-28
+2,Supplier_2,Pune,ORG003,2026-09-28
+3,Supplier_3,Pune,ORG003,2026-09-28
+4,Supplier_4,Pune,ORG003,2026-09-28
+5,Supplier_5,Pune,ORG003,2026-09-28

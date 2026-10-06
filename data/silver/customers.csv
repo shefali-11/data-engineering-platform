@@ -1,0 +1,16 @@
+customer_id,customer_name,city,organization_id,processing_date
+1,Customer_1,Pune,ORG001,2026-09-28
+2,Customer_2,Pune,ORG001,2026-09-28
+3,Customer_3,Pune,ORG001,2026-09-28
+4,Customer_4,Pune,ORG001,2026-09-28
+5,Customer_5,Pune,ORG001,2026-09-28
+1,Customer_1,Pune,ORG002,2026-09-28
+2,Customer_2,Pune,ORG002,2026-09-28
+3,Customer_3,Pune,ORG002,2026-09-28
+4,Customer_4,Pune,ORG002,2026-09-28
+5,Customer_5,Pune,ORG002,2026-09-28
+1,Customer_1,Pune,ORG003,2026-09-28
+2,Customer_2,Pune,ORG003,2026-09-28
+3,Customer_3,Pune,ORG003,2026-09-28
+4,Customer_4,Pune,ORG003,2026-09-28
+5,Customer_5,Pune,ORG003,2026-09-28

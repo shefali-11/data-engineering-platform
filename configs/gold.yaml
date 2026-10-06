@@ -1,0 +1,45 @@
+aggregations:
+  customer_summary:
+    source_table: customers
+    group_by:
+      - organization_id
+    metrics:
+      customer_count:
+        function: count
+        column: customer_id
+
+  product_summary:
+    source_table: products
+    group_by:
+      - organization_id
+    metrics:
+      product_count:
+        function: count
+        column: product_id
+
+  order_summary:
+    source_table: orders
+    group_by:
+      - organization_id
+    metrics:
+      order_count:
+        function: count
+        column: order_id
+
+  payment_summary:
+    source_table: payments
+    group_by:
+      - organization_id
+    metrics:
+      total_payment:
+        function: sum
+        column: amount
+
+  inventory_summary:
+    source_table: inventory
+    group_by:
+      - organization_id
+    metrics:
+      total_inventory:
+        function: sum
+        column: quantity

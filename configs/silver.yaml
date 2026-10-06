@@ -1,0 +1,60 @@
+tables:
+  customers:
+    key_columns:
+      - organization_id
+      - customer_id
+    deduplicate: true
+
+  products:
+    key_columns:
+      - organization_id
+      - product_id
+    deduplicate: true
+
+  orders:
+    key_columns:
+      - organization_id
+      - order_id
+    deduplicate: true
+
+  payments:
+    key_columns:
+      - organization_id
+      - payment_id
+    deduplicate: true
+
+  employees:
+    key_columns:
+      - organization_id
+      - employee_id
+    deduplicate: true
+
+  departments:
+    key_columns:
+      - organization_id
+      - department_id
+    deduplicate: true
+
+  suppliers:
+    key_columns:
+      - organization_id
+      - supplier_id
+    deduplicate: true
+
+  inventory:
+    key_columns:
+      - organization_id
+      - inventory_id
+    deduplicate: true
+
+  shipments:
+    key_columns:
+      - organization_id
+      - shipment_id
+    deduplicate: true
+
+  reviews:
+    key_columns:
+      - organization_id
+      - review_id
+    deduplicate: true

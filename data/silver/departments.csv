@@ -1,0 +1,16 @@
+department_id,department_name,organization_id,processing_date
+1,Department_1,ORG001,2026-09-28
+2,Department_2,ORG001,2026-09-28
+3,Department_3,ORG001,2026-09-28
+4,Department_4,ORG001,2026-09-28
+5,Department_5,ORG001,2026-09-28
+1,Department_1,ORG002,2026-09-28
+2,Department_2,ORG002,2026-09-28
+3,Department_3,ORG002,2026-09-28
+4,Department_4,ORG002,2026-09-28
+5,Department_5,ORG002,2026-09-28
+1,Department_1,ORG003,2026-09-28
+2,Department_2,ORG003,2026-09-28
+3,Department_3,ORG003,2026-09-28
+4,Department_4,ORG003,2026-09-28
+5,Department_5,ORG003,2026-09-28
