@@ -1,0 +1,9 @@
+
+dataset_name: customers
+source: dags/extraction/sample.csv
+owner: data-engineering
+status: active
+description: Customer data ingestion from CSV to MinIO Parquet
+format: csv
+destination_format: parquet
+partition_column: processing_date
