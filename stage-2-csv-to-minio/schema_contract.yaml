@@ -1,0 +1,23 @@
+
+dataset_name: customers
+
+columns:
+  - name: customer_id
+    type: string
+    nullable: false
+
+  - name: customer_name
+    type: string
+    nullable: false
+
+  - name: city
+    type: string
+    nullable: false
+
+  - name: organization_id
+    type: string
+    nullable: false
+
+  - name: processing_date
+    type: date
+    nullable: false
