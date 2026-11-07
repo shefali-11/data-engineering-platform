@@ -6,3 +6,16 @@ __pycache__/
 logs/
 .pytest_cache/
 .git/
+.env
+**/.env
+__pycache__/
+*.pyc
+*.log
+*.inspect.log
+*.inspect.txt
+*.properties
+*.bak
+*.disabled
+nifi-logs/
+logs/
+get-pip.py
